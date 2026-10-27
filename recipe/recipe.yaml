@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.2"
+  version: "0.3.0"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rasterix/rasterix-${{ version }}.tar.gz
-  sha256: 6d1d189a45934c4c7ac87e0d0311f7b8fba5146908db4983f297b5ab10b311d4
+  sha256: 8230e9ff9a484805212ff8d2b48ea25b3f9d19b3dddb5901b1c486a259dde6a5
 
 build:
   number: 0
